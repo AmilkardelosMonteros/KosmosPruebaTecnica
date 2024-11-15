@@ -1,0 +1,6 @@
+host: localhost
+port: 5000
+use_log: True
+debug: True
+log_folder: Logs 
+log_file: server.log

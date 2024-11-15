@@ -1,0 +1,25 @@
+2024-11-14 19:38:05,614 - INFO - Servidor TCP iniciado en localhost:5000, en espera de conexiones...
+2024-11-14 19:38:10,793 - INFO - Conexión aceptada de ('127.0.0.1', 41402)
+2024-11-14 19:38:12,031 - INFO - Mensaje recibido del cliente ('127.0.0.1', 41402): hola
+2024-11-14 19:38:12,031 - INFO - Respuesta enviada al cliente ('127.0.0.1', 41402): HOLA
+2024-11-14 19:38:14,225 - INFO - Mensaje recibido del cliente ('127.0.0.1', 41402): como
+2024-11-14 19:38:14,226 - INFO - Respuesta enviada al cliente ('127.0.0.1', 41402): COMO
+2024-11-14 19:38:15,313 - INFO - Mensaje recibido del cliente ('127.0.0.1', 41402): estas
+2024-11-14 19:38:15,314 - INFO - Respuesta enviada al cliente ('127.0.0.1', 41402): ESTAS
+2024-11-14 19:38:17,914 - INFO - Mensaje recibido del cliente ('127.0.0.1', 41402): DESCONEXION
+2024-11-14 19:38:17,915 - INFO - Cliente ('127.0.0.1', 41402) ha solicitado la desconexión
+2024-11-14 19:38:17,915 - INFO - Respuesta enviada al cliente ('127.0.0.1', 41402): DESCONEXION
+2024-11-14 19:38:17,915 - WARNING - Conexión cerrada inesperadamente por el cliente ('127.0.0.1', 41402)
+2024-11-14 19:38:17,915 - INFO - Conexión con ('127.0.0.1', 41402) finalizada
+2024-11-14 19:38:19,190 - INFO - Conexión aceptada de ('127.0.0.1', 37528)
+2024-11-14 19:38:20,888 - INFO - Mensaje recibido del cliente ('127.0.0.1', 37528): jola
+2024-11-14 19:38:20,888 - INFO - Respuesta enviada al cliente ('127.0.0.1', 37528): JOLA
+2024-11-14 19:38:21,754 - INFO - Mensaje recibido del cliente ('127.0.0.1', 37528): f
+2024-11-14 19:38:21,754 - INFO - Respuesta enviada al cliente ('127.0.0.1', 37528): F
+2024-11-14 19:38:24,470 - INFO - Mensaje recibido del cliente ('127.0.0.1', 37528): HOLA
+2024-11-14 19:38:24,470 - INFO - Respuesta enviada al cliente ('127.0.0.1', 37528): HOLA
+2024-11-14 19:38:27,777 - INFO - Mensaje recibido del cliente ('127.0.0.1', 37528): DESCONEXION
+2024-11-14 19:38:27,777 - INFO - Cliente ('127.0.0.1', 37528) ha solicitado la desconexión
+2024-11-14 19:38:27,777 - INFO - Respuesta enviada al cliente ('127.0.0.1', 37528): DESCONEXION
+2024-11-14 19:38:27,777 - WARNING - Conexión cerrada inesperadamente por el cliente ('127.0.0.1', 37528)
+2024-11-14 19:38:27,777 - INFO - Conexión con ('127.0.0.1', 37528) finalizada
