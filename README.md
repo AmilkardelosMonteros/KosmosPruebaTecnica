@@ -1,7 +1,7 @@
 ## Parametros 
 Los parametros de configuracion disponibles para este proyecto son:
 
-host:       (str) Indica la direccion del servidor
+host:       (str) Indica la direccion del servidor \n
 port:       (int) Indica el puerto del servidor
 use_log:    (bool) Indica si el programa debe guardas los logs del servidor
 debug:      (bool) Indica si los logs deben imprimirse en pantalla
@@ -29,4 +29,4 @@ Para probar este proyecto es necesario
 2. En una terminal ejecutar el servidor con $ python3 server.py 
 3. En una terminal independiente a la usada en el paso 1. ejecutar el cliente con python3 client.py
 
-
+O bien, hacer paso 1 y 2 del parrafo anterior y despues ejecutar test.py
